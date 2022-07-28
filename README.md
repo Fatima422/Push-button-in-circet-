@@ -1,4 +1,4 @@
-# Push-button-in-circet-
+# Push-button-in-circuit-
 
 Link Tinkercad : https://www.tinkercad.com/things/f8AZV9u9wmI
 
